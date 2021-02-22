@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.exe
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.deps.json
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.runtimeconfig.json
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.dll
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\ref\MovieLibrary_A4.dll
+C:\Users\Owner\Desktop\MovieLibrary_A4\bin\Debug\net5.0\MovieLibrary_A4.pdb
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.AssemblyInfo.cs
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.dll
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\ref\MovieLibrary_A4.dll
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.pdb
+C:\Users\Owner\Desktop\MovieLibrary_A4\obj\Debug\net5.0\MovieLibrary_A4.genruntimeconfig.cache

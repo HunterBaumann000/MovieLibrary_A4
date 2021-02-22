@@ -1,0 +1,55 @@
+/*
+                if (choice == "1")
+                {
+                    //creates temporary list of genres to add to Movie object
+                    
+                    //User input for adding a movie
+                    Console.WriteLine("Name of The Movie?: ");
+                    string movieName = Console.ReadLine();
+
+                    Console.WriteLine("Year Movie was Released?: ");
+                    string movieYear = Console.ReadLine();
+
+                    Console.WriteLine("How Many Genres are present?: ");
+                    string genresPresent = Console.ReadLine();
+
+                    //loop to go through all genres that can be in a movie
+                    for (int l = 1; l <= int.Parse(genresPresent); l++) {
+                       Console.WriteLine($"Name of Genre {l}:"); 
+                       string genreInput = Console.ReadLine();
+
+                        tempGenreList.Add(genreInput);
+                    }
+                }
+                else if (choice == "2")
+                {
+
+                    Console.WriteLine("What Index Would You Like to Start At?: ");
+                    //string summary = Console.ReadLine();
+                    Console.WriteLine("What Index Would you Like to End At?: ");
+                    //string summary = Console.ReadLine();
+
+                    //Console.WriteLine(movieList.atindex[userinput])
+                    //run loop to to run every index up till the userinput
+                }
+                else if (choice == "3")
+                {
+                    //Console.WriteLine(movieList)
+                }
+                else if (choice == "4")
+                {
+                    Console.WriteLine("Program Has Closed.");
+                    //sw.close
+                }
+            }
+            
+            //Gather inputs and interpolate the string to represent one line in the txt file
+
+            //potentially add seperate method that either interpolations strings
+            //or searches for the movies
+            //or handles userinput
+
+        }  
+    }
+}
+*\
